@@ -7,6 +7,15 @@ body {
     color: white;
 }
 
+
 #propic {
     border-radius: 50% !important;
+    align-content: center;
+}
+
+.pic {
+    border-radius: 50% !important;
+    width: 150px;
+    height: 150px;
+    text-align: center;
 }
