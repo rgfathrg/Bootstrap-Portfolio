@@ -3,7 +3,7 @@ body {
     text-align: center;
 }
 
-.navbar {
+.navBar {
     margin-bottom: 0px !important;
 }
 .navbar-toggler {
@@ -11,12 +11,19 @@ body {
 }
 
 .landing {
-    
+    margin-bottom: 0;
     background-image: url(images/backgoundone.jpg);
     background-size: cover;
     height: 100vh;
 }
 
+.lead {
+    text-align: center;
+    margin: 25px;
+}
+.jumbotron {
+    margin-bottom: 0px !important;
+}
 #propic {
     border-radius: 50% !important;
     align-content: center;
