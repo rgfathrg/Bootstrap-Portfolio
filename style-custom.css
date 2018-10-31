@@ -1,6 +1,7 @@
 body {
     background-image: url(images/backgoundone.jpg);
     background-size: cover;
+    text-align: center;
 }
 
 .navbar-toggler {
@@ -18,4 +19,8 @@ body {
     width: 150px;
     height: 150px;
     text-align: center;
+}
+
+.title {
+    align-content: center !important;
 }
